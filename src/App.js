@@ -1,10 +1,12 @@
 import "./styles.css";
 
-export default function App() {
+function App() {
   return (
     <div className="App">
-      <h1>Hello CodeSandbox</h1>
-      <h2>Start editing to see some magic happen!</h2>
+      <h1>Hello Mustapha</h1>
+      <h2>This is the fisrt commit :)</h2>
     </div>
   );
 }
+
+export default App;
